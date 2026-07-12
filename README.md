@@ -1,2 +1,2 @@
 # Line-tiktok-line
-    LINEお問い合わせページ
+    https://lin.ee/rrniFK2
